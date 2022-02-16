@@ -1,8 +1,8 @@
 ## Olá, Dev! 👋
 <div align="center" id="Home">
   <a href="https://github.com/RenanLima7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanLima7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLima7&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RenanLima7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLima7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## Principais Tecnologias!
@@ -17,7 +17,7 @@
   <img align="center" alt="Renan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
-## tecnologias Secundárias!
+## Tecnologias Secundárias!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
