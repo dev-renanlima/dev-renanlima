@@ -1,8 +1,8 @@
 ## Olá, sou Renan! 👋
 <div align="center" id="Home">
-  <a href="https://github.com/RenanLima7">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=RenanLima7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLima7&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/dev-renanlima">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dev-renanlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-renanlima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## Linguagens e Ferramentas 🛠️
@@ -40,7 +40,7 @@
   
   ## Histórico de Commits 💻
   
-  ![Snake animation](https://github.com/RenanLima7/RenanLima7/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dev-renanlima/dev-renanlima/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
